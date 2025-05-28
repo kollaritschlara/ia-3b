@@ -9,23 +9,25 @@ const perguntas = [
         alternativas: [
             {
                 texto:"alternativa1", 
-                afrimacao:"alternativa1"
+                afirmacao:"alternativa1"
+            },
             {    
                 texto:"alternativa2", 
-                afrimacao:"alternativa2"
-            }
-            ]
-    }
-]
+                afirmacao:"alternativa2"
+            },
+        ]
+    },
 {
         enunciado: "Pergunta2",
         alternativas: [
             {
                 texto:"alternativa1", 
-                afrimacao:"alternativa1"
-            {    
-                texto:"alternativa2", 
-                afrimacao:"alternativa2"
-            }
-            ]
-    }
+                afirmacao:"alternativa1",
+            },    
+            { 
+            texto:"alternativa2", 
+                afirmacao:"alternativa2",
+            },
+        ]
+    },
+]
