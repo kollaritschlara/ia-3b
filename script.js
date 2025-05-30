@@ -57,4 +57,4 @@ function mostraAlternativas() {
         botaoAlternativa.textContent = alternativa.texto 
     }
 }
-mostraPergunta();
+mostraPergunta();k
