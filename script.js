@@ -58,4 +58,4 @@ function mostraAlternativas() {
         caixaAlternativas.appendChild(botaoAlternativa)
     }
 }
-mostraPergunta();k
+mostraPergunta();
